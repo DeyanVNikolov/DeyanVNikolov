@@ -11,12 +11,12 @@ I've worked on several Python projects and a few front-end only - you can check 
 [![My Skills](https://skillicons.dev/icons?i=py,flask,html,css,js,mysql,vscode,cloudflare)
 ](https://deyanvnikolov.github.io/me) 
 
-[![My Skills](https://skillicons.dev/icons?i=ps,au,ai,pr,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,au,ai,pr,)]
 
 ## My time on GitHub ⌚
 ![Languages](https://api.githubtrends.io/user/svg/DeyanVNikolov/langs?time_range=one_year&include_private=True&theme=dark)          ![Repos](https://api.githubtrends.io/user/svg/DeyanVNikolov/repos?time_range=one_year&include_private=True&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=deyanvnikolov&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=deyanvnikolov&theme=dark&date_format=M%20j%5B%2C%20Y%5D)]
 
 ![stats1](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deyanvnikolov)
 

@@ -13,7 +13,7 @@ I also worked on several videos in my videography experience. Check them out [HE
 [![My Skills](https://skillicons.dev/icons?i=py,flask,html,css,js,mysql,vscode,cloudflare)
 ](https://deyanvnikolov.github.io/me) 
 
-![My Skills](https://skillicons.dev/icons?i=ps,au,ai,pr,)
+[![My Skills](https://skillicons.dev/icons?i=ps,au,ai,pr,)](https://deyanvnikolov.github.io/me) 
 
 ## My time on GitHub ⌚
 ![Languages](https://api.githubtrends.io/user/svg/DeyanVNikolov/langs?time_range=one_year&include_private=True&theme=dark)          ![Repos](https://api.githubtrends.io/user/svg/DeyanVNikolov/repos?time_range=one_year&include_private=True&theme=dark)

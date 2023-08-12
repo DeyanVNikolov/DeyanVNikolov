@@ -10,7 +10,7 @@ I also worked on several videos in my videography experience. Check them out [HE
 ![Deyan Nikolov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deyanvnikolov&count_private=true)
 
 ## **My expertise 🧑‍💻**
-[![My Skills](https://skillicons.dev/icons?i=py,flask,django,html,css,js,mysql,vscode,cloudflare)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,django,html,css,js,mysql,postgresql,vscode,cloudflare)
 ](https://deyanvnikolov.github.io/me) 
 
 [![My Skills](https://skillicons.dev/icons?i=ps,au,ai,pr,)](https://deyanvnikolov.github.io/me) 

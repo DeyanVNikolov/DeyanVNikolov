@@ -2,7 +2,7 @@
 
 # **Welcome to my profile! 👋🏻🙋🏻‍♂️😃**
 
-My name is **Deyan Nikolov**; I'm Full-Stack Python Developer and a third-year student at **[ITPG-Varna](https://itpg-varna.bg)**.
+My name is **Deyan Nikolov**; I'm a Full-Stack Python Developer and a fourt-year student at **[ITPG-Varna](https://itpg-varna.bg)**.
 I've worked on several Python projects and a few front-end only - you can check them in my [repositories](https://github.com/DeyanVNikolov?tab=repositories) and [HERE](https://deyanvnikolov.github.io/me/#work)!
 
 I also worked on several videos in my videography experience. Check them out [HERE](https://deyanvnikolov.github.io/me/#work)
